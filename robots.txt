@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://arpimc-zone.vercel.app/sitemap.xml
