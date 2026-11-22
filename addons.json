@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "nama": "Mutants",
+    "kategori": "addon",
+    "gambar": "https://files.catbox.moe/3kgszm.jpg",
+    "link_download": "https://www.mediafire.com/file/n8wn32k7mwsjh1e/MUTANTS!+Add-On+2.0+by+Vano+craft+(addon).mcaddon/file",
+    "deskripsi": "Menambahkan monster ke dalam Minecraft kamu",
+    "versi": "1.26+",
+    "ukuran": "9,53 mb",
+    "tanggal_upload": "25 Okt 2026"
+  },
+  {
+    "id": 2,
+    "nama": "3D Skin",
+    "kategori": "pack",
+    "gambar": "https://files.catbox.moe/fa8tro.jpg",
+    "link_download": "https://www.mediafire.com/file/ctputsnqf3goega/3dskinlayer_as.mcpack/file",
+    "deskripsi": "Membuat skin menjadi 3D",
+    "versi": "1.26+",
+    "ukuran": "2,24 mb",
+    "tanggal_upload": "25 Okt 2026"
+  },
+  {
+    "id": 3,
+    "nama": "BSL Y Shaders",
+    "kategori": "shader",
+    "gambar": "https://files.catbox.moe/3klyfl.jpg",
+    "link_download": "https://www.mediafire.com/file/n7byt0syo3rgc5c/BSL+Y+Shaders.mcpack/file",
+    "deskripsi": "Memperbagus tampilan Minecraft kamu",
+    "versi": "1.26+",
+    "ukuran": "1,25 mb",
+    "tanggal_upload": "25 Okt 2026"
+  },
+  {
+    "id": 4,
+    "nama": "UI Ancxliy V7",
+    "kategori": "ui",
+    "gambar": "https://files.catbox.moe/n7682n.jpg",
+    "link_download": "https://www.mediafire.com/file/17vn4xii9qsooi7/AncxliyPackV7FixBugs.mcpack/file",
+    "deskripsi": "Mengubah tampilan lobby dengan gaya Jepang",
+    "versi": "1.26+",
+    "ukuran": "23,33 mb",
+    "tanggal_upload": "25 Okt 2026"
+  }, 
+  {
+  "id": 6,
+  "nama": "Cobblemon",
+  "kategori": "addon",
+  "gambar": "https://files.catbox.moe/3msaxh.jpg",
+  "link_download": "https://www.mediafire.com/file/xi6pq1p95j6hfq2/Addon_Cobblemon_English_MCPE_1.26.20_.mcaddon/file",
+  "deskripsi": "Cobblemon Addon menghadirkan pengalaman petualangan bertema Pokémon ke dalam Minecraft Bedrock. Tersedia dalam bahasa Inggris dengan format .mcaddon, kompatibel untuk MCPE 1.26.20.",
+  "versi": "1.26.20",
+  "ukuran": "39 mb",
+  "tanggal_upload": "17 Nov 2026"
+}, 
+{
+  "id": 7,
+  "nama": "MC Patch 1.26.60.4",
+  "kategori": "lain-lain",
+  "gambar": "https://files.catbox.moe/q89iur.jpg",
+  "link_download": "https://www.mediafire.com/file/zvvypmhjx0jejnb/MC_Patch_1-26-60-4_64%2632bit.apk/file",
+  "deskripsi": "MC Patch versi 1.26.60.4 untuk Minecraft Pocket Edition, tersedia dalam varian 64-bit dan 32-bit.",
+  "versi": "1.26.60.4",
+  "ukuran": "508 mb",
+  "tanggal_upload": "17 Nov 2026"
+}, 
+{
+  "id": 8,
+  "nama": "Shiny Glowing Ores",
+  "kategori": "pack",
+  "gambar": "https://files.catbox.moe/y5z1dv.jpg",
+  "link_download": "https://www.mediafire.com/file/gwmugtv60m5ihks/Shiny-Glowing-Ores.mcpack/file",
+  "deskripsi": "✨ Buat pengalaman menambang di Minecraft menjadi lebih menarik! Shiny Glowing Ores memberikan tampilan bijih yang bercahaya sehingga lebih mudah dikenali saat menjelajahi gua dan melakukan aktivitas pertambangan.",
+  "versi": "1.26+",
+  "ukuran": "442.13kb",
+  "tanggal_upload": "18 Nov 2026"
+}
+]
